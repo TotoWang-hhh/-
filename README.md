@@ -1,3 +1,6 @@
+# 感谢浏览此页面！
+主页面已迁移，你可以[转到新页面](https://totowang-hhh.github.io/index.html)或留在旧页面
+
 # 你好啊！
 欢迎浏览这个页面
 
